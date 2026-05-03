@@ -1,0 +1,28 @@
+# Data Processing
+pandas
+numpy
+
+# HuggingFace
+transformers
+datasets
+torch
+sentence-transformers
+
+# Vector DB
+faiss-cpu
+chromadb
+
+# NLP
+nltk
+scikit-learn
+
+# Visualization (EDA)
+matplotlib
+seaborn
+
+# App
+streamlit
+
+# Utilities
+tqdm
+python-dotenv
