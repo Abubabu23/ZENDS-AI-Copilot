@@ -16,9 +16,20 @@ chromadb
 nltk
 scikit-learn
 
-# Visualization (EDA)
+# Visualization
 matplotlib
 seaborn
+
+# LangChain
+langchain
+langchain-community
+langchain-text-splitters
+
+# Groq
+groq
+
+# PDF
+pypdf
 
 # App
 streamlit
@@ -26,3 +37,5 @@ streamlit
 # Utilities
 tqdm
 python-dotenv
+torchvision
+accelerate
