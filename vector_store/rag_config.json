@@ -1,0 +1,10 @@
+{
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "llm_model": "llama-3.3-70b-versatile",
+    "llm_provider": "groq",
+    "vector_store": "faiss",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "total_chunks": 24,
+    "retrieval_k": 3
+}
