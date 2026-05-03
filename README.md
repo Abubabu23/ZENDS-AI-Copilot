@@ -195,16 +195,7 @@ Llama 3.3 generates a perfect reply:
 
 ---
 
-## 👨‍💻 Project Details
 
-| Property | Value |
-|----------|-------|
-| Project Title | AI Customer Support Copilot |
-| Domain | Telecom Industry, Customer Service AI |
-| Company | ZENDS Communications (Virtual) |
-| Platform | GUVI x HCL |
-
----
 
 ## 📚 References
 
